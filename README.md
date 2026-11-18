@@ -19,5 +19,7 @@ Built as a lightweight alternative to signature-based detection, this tool utili
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/SaahilManjunath/ai-network-ids.git](https://github.com/SaahilManjunath/ai-network-ids.git)
-   cd ai-network-ids
+   > git clone https://github.com/SaahilManjunath/ai-network-ids.git
+   > cd ai-network-ids
+   > pip install -r requirements.txt
+   > sudo python3 ids_engine.py
